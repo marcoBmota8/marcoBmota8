@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcoBmota8
+- 👋 Hi, I’m Marco Barbero-Mota
 - 👀 I’m interested in the application of machine learning and causal inference to healthcare data. 
 I am amazed by how big amounts of electronic health records data, medical imaging, omic data, and other sources of information, can be leveraged through data-driven algorithms to guide the advancement of medical knowledge.
 - 💞️ I’m looking to collaborate on projects regarding any aspect of biomedical informatics, causal inference or machine learning.
